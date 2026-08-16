@@ -1,17 +1,18 @@
-# HEMMA Ventures Limited Website
+# HEMMA Ventures — Logo Fix
 
-Corporate website for HEMMA Ventures Limited.
+Replace the existing website files with these versions.
 
-## Brand
-- Black: #000000
-- White: #FFFFFF
-- Digital typography: Questrial
-- Official supplied logo artwork is included in `assets/hemma-ventures-logo.jpg`.
+## Replace
+- `index.html`
+- `styles.css`
+- `script.js`
 
-## GitHub Pages
-Upload the contents of this folder to the root of the public `hemmaventures-site` repository.
+## Add to `assets/`
+- `hemma-logo-black.png`
+- `hemma-logo-white.png`
+- `hemma-monogram-white.png`
+- `hemma-monogram-black.png`
 
-Settings → Pages → Deploy from a branch → `main` → `/ (root)`.
+These PNGs were created from the supplied HEMMA Ventures logo artwork so the website uses the actual brand identity rather than a generic typographic H.
 
-## Before Meta verification
-Connect the HEMMA Ventures domain and corporate email, then ensure the legal business name, phone, address and registration/tax information entered in Meta match HEMMA Ventures Limited's official records exactly.
+The original JPG can remain in `assets/`; it does not need to be deleted.
